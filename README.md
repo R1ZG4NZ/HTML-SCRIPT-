@@ -1,8 +1,8 @@
 <html lang='en'>
-<title>Touched by MR RYUZAKI EXCLUSV</title>
+<title>Touched by R1ZG4NZ</title>
 <link rel="icon" type="image/jpg" href="https://l.top4top.io/p_2576xrsxn0.jpg">
-<meta property='og:description' content='Diretas oleh seorang jago IT'>
-<meta name='author'content='Anak biasa'>
+<meta property='og:description' content='Hacked by IT'S GOOD R1ZG4NZ'>
+<meta name='author'content='A person with special needs'>
 <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow|Shadows+Into+Light" rel="stylesheet"> 
 <center>
 <style>
